@@ -1,0 +1,2 @@
+- [x] Import nav_profile.png in Navbar.jsx
+- [x] Add img tag for nav_profile in the navbar component
